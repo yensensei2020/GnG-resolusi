@@ -1,5 +1,7 @@
 RENCANA KONTEN GnG
 -Javascript
 -PHP Frameworks
+-Struktur Data Dasar
 -Interview
 -Vlogs
+
