@@ -4,6 +4,8 @@ RENCANA KONTEN GnG
   *Framework Javascript
   ^Vue
   ^react
+  ^Angular
+  ^React
 -PHP Frameworks
   ^Laravel
 -Struktur Data Dasar
