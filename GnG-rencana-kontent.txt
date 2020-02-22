@@ -1,5 +1,9 @@
 RENCANA KONTEN GnG
 -Javascript
+  *ES6
+  *Framework Javascript
+  ^Vue
+  ^react
   ^Angular
   ^React
 -PHP Frameworks
@@ -7,4 +11,5 @@ RENCANA KONTEN GnG
 -Struktur Data Dasar
 -Interview
 -Vlogs
+-Python
 
